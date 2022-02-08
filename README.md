@@ -21,3 +21,4 @@ Revamped product detail page including:
 ## Usage 
 
 ## Team Members
+[Estevan](https://github.com/GonzalezEstevan/ProjectCatwalkRedesign)
