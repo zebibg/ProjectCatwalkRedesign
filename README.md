@@ -9,7 +9,7 @@ You can link to the different sections below
 ## Description
 Revamped product detail page including:
 * Product Detail Components include:
-* Image gallery 
+* Image gallery
 * Product information
 * Style selector
 * Add to cart
@@ -18,6 +18,7 @@ Revamped product detail page including:
 * Related Items & Outfit Creation
 
 ## Installation
-## Usage 
+## Usage
 
 ## Team Members
+[Estevan](https://github.com/GonzalezEstevan/ProjectCatwalkRedesign)
